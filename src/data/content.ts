@@ -255,6 +255,13 @@ export const content: ContentModel = {
         tone: "development",
       },
       {
+        name: "Chrome-Trading-Ext",
+        description: "Early Chrome extension experiment pairing a browser-side surface with a Node/Express server bridge to send trading actions from the page — a prototype exploring in-browser trade controls",
+        stack: ["Node", "Express", "Chrome Extension", "JavaScript"],
+        status: "Early prototype",
+        tone: "planning",
+      },
+      {
         name: "kicomav",
         description: "Open-source antivirus and malware detection engine — Python package with scanning, disinfection, and tooling for defensive security research",
         stack: ["Python"],
