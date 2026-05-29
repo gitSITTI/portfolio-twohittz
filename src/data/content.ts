@@ -166,8 +166,8 @@ export const content: ContentModel = {
         stack: ["TypeScript", "Node", "Cloudflare", "MCP"],
         status: "Active",
         tone: "active",
-        href: "https://claw.twohittz.com",
-        linkLabel: "Open project ↗",
+        href: "https://github.com/gitSITTI/SosaClaw",
+        linkLabel: "GitHub repo ↗",
       },
       {
         name: "TwoHittz Trade",
@@ -190,7 +190,7 @@ export const content: ContentModel = {
         status: "Active",
         tone: "active",
         href: "https://github.com/gitSITTI/Karpathy-Loop-Desktop-Trade",
-        linkLabel: "Open project ↗",
+        linkLabel: "GitHub repo ↗",
       },
       {
         name: "Hamza",
@@ -199,7 +199,7 @@ export const content: ContentModel = {
         status: "Active",
         tone: "active",
         href: "https://github.com/gitSITTI/Hamza",
-        linkLabel: "Open project ↗",
+        linkLabel: "GitHub repo ↗",
       },
       {
         name: "TwoHittz",
