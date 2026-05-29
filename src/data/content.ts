@@ -227,8 +227,22 @@ export const content: ContentModel = {
         tone: "shipped",
       },
       {
+        name: "legalAID-Docs",
+        description: "AI-assisted legal document workspace with Express-backed services for document handling, analysis, and self-help legal workflows",
+        stack: ["React", "TypeScript", "Express", "Gemini"],
+        status: "Active",
+        tone: "active",
+      },
+      {
         name: "TESTy",
         description: "Study and memorization companion built around multi-mode practice and mastery workflows",
+        stack: ["React", "TypeScript", "Vite", "Gemini"],
+        status: "Shipped",
+        tone: "shipped",
+      },
+      {
+        name: "Eyes",
+        description: "AI-powered study browser (Lumina) for browsing content, highlighting passages, and generating recall tests from web material",
         stack: ["React", "TypeScript", "Vite", "Gemini"],
         status: "Shipped",
         tone: "shipped",
@@ -239,6 +253,15 @@ export const content: ContentModel = {
         stack: ["Next.js", "TypeScript", "Tesseract.js"],
         status: "In Development",
         tone: "development",
+      },
+      {
+        name: "kicomav",
+        description: "Open-source antivirus and malware detection engine — Python package with scanning, disinfection, and tooling for defensive security research",
+        stack: ["Python"],
+        status: "Shipped",
+        tone: "shipped",
+        href: "https://github.com/gitSITTI/kicomav",
+        linkLabel: "GitHub repo ↗",
       },
       {
         name: "Financial Planning Tools",
